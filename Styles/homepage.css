@@ -3,6 +3,11 @@
     height: 50px;
 }
 
+section {
+            margin: 0;
+            padding: 10%
+}
+
 header {
     position: relative;
     background: url("/Assets/Pictures/IMG_9780.JPG");
@@ -10,7 +15,7 @@ header {
     background-repeat: no-repeat;
     width: 100%;
     padding-top: 66.64%;
-    color: white;
+    color: black;
 }
 
 header ul {
@@ -18,7 +23,12 @@ header ul {
     right: 20px;
     top: 20px;
 }
+
 header li {
     list-style: none;
     display: inline;
+}
+
+img {
+    max-width: 100%;
 }
