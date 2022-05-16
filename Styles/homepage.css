@@ -1,3 +1,12 @@
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("/Assets/Pictures/IMG_9780.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .icon {
     width: 50px;
     height: 50px;
@@ -7,30 +16,6 @@
 section {
             margin: 0;
             padding: 10%
-}
-
-li {
-    display: inline;
-}
-header {
-    position: relative;
-    background: url("/Assets/Pictures/IMG_9780.JPG");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    padding-top: 66.64%;
-    color: black;
-}
-
-header ul {
-    position: absolute;
-    right: 20px;
-    top: 20px;
-}
-
-header li {
-    list-style: none;
-    display: inline;
 }
 
 img {
