@@ -41,6 +41,8 @@ footer {
     background-color: black;
 }
 
-.filter-white {
-    invert(100%) sepia(0%) saturate(7448%) hue-rotate(114deg) brightness(96%) contrast(107%);
+.filter-white{
+    width:20px;
+    height:20px;
+    filter: invert(100%) sepia(0%) saturate(7487%) hue-rotate(148deg) brightness(100%) contrast(95%);
 } 
