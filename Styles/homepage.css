@@ -1,12 +1,9 @@
-#intro {
-    height: 100%;
-}
-
-#intro {
+header {
     background: url("/Assets/Pictures/IMG_9780.JPG");
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .icon {
     width: 50px;
     height: 50px;
